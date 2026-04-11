@@ -1,16 +1,98 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Muaz Jamil</h1>
+<h3 align="center">Software Engineer | Flutter & Web Developer | Building Real-World Solutions</h3>
 
-<!--
-**Muazjamil/Muazjamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Next.JS+Learner;Full+Stack+Engineer&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+*  Currently working on **FlyBuy** – A cross-border shopping platform
+*  Building apps using **Flutter, Next.js & Firebase**
+*  Learning **Provider, GSAP & AI Integration**
+*  Passionate about solving real-world problems with tech
+
+---
+
+## 🚀 My Projects
+
+## Mobile Apps (Flutter)
+
+###  FlyBuy
+
+> A platform connecting travelers with buyers for cross-border shopping
+
+* Secure escrow system
+* AI-based fraud detection
+* Product Detail Scrapping
+* Real-time communication
+
+###  PitchPulse
+
+> Cricket live score & info app
+
+* Live match updates
+* API integration (Cricbuzz)
+* Firebase backend 
+
+## Web Projects
+
+### Inclivo | Premium Marketing Agency Portfolio Website (https://www.inclivo.com/)
+
+> A modern, high-end portfolio website for a marketing agency
+
+* Sleek and responsive UI/UX   
+* Advanced animations using GSAP   
+* High-performance Next.js architecture   
+* Clean design with strong brand identity 
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Next-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GSAP-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Provider-02569B?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muaz-jamil-197595210/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"/>
+  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=imuazjamil@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Me-red?logo=gmail&logoColor=white" />
+</a>
+</p>
+
+
+
+## Quote I Believe In
+
+> "Stay Hungry, Stay Foolish"
+
+---
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/Muazjamil">Muaz Jamil</a>
+</p>
