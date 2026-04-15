@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Flutter & Web Developer | Building Real-World Solutions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Next.JS+Learner;Full+Stack+Engineer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Next.JS+Developer;Appscript+Automation&center=true&width=500&height=45">
 </p>
 
 ---
